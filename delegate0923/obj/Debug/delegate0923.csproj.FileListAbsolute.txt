@@ -1,0 +1,10 @@
+C:\c#_ksm\delegate0923\bin\Debug\delegate0923.exe.config
+C:\c#_ksm\delegate0923\bin\Debug\delegate0923.exe
+C:\c#_ksm\delegate0923\bin\Debug\delegate0923.pdb
+C:\c#_ksm\delegate0923\obj\Debug\delegate0923.csproj.AssemblyReference.cache
+C:\c#_ksm\delegate0923\obj\Debug\delegate0923.Form1.resources
+C:\c#_ksm\delegate0923\obj\Debug\delegate0923.Properties.Resources.resources
+C:\c#_ksm\delegate0923\obj\Debug\delegate0923.csproj.GenerateResource.cache
+C:\c#_ksm\delegate0923\obj\Debug\delegate0923.csproj.CoreCompileInputs.cache
+C:\c#_ksm\delegate0923\obj\Debug\delegate0923.exe
+C:\c#_ksm\delegate0923\obj\Debug\delegate0923.pdb

@@ -1,0 +1,9 @@
+C:\c#_ksm\codingTest2021_intern1\bin\Debug\codingTest2021_intern1.exe.config
+C:\c#_ksm\codingTest2021_intern1\bin\Debug\codingTest2021_intern1.exe
+C:\c#_ksm\codingTest2021_intern1\bin\Debug\codingTest2021_intern1.pdb
+C:\c#_ksm\codingTest2021_intern1\obj\Debug\codingTest2021_intern1.csproj.AssemblyReference.cache
+C:\c#_ksm\codingTest2021_intern1\obj\Debug\codingTest2021_intern1.Properties.Resources.resources
+C:\c#_ksm\codingTest2021_intern1\obj\Debug\codingTest2021_intern1.csproj.GenerateResource.cache
+C:\c#_ksm\codingTest2021_intern1\obj\Debug\codingTest2021_intern1.csproj.CoreCompileInputs.cache
+C:\c#_ksm\codingTest2021_intern1\obj\Debug\codingTest2021_intern1.exe
+C:\c#_ksm\codingTest2021_intern1\obj\Debug\codingTest2021_intern1.pdb

@@ -1,0 +1,7 @@
+C:\c#_ksm\codingTest2021_intern2\bin\Debug\codingTest2021_intern2.exe.config
+C:\c#_ksm\codingTest2021_intern2\bin\Debug\codingTest2021_intern2.exe
+C:\c#_ksm\codingTest2021_intern2\bin\Debug\codingTest2021_intern2.pdb
+C:\c#_ksm\codingTest2021_intern2\obj\Debug\codingTest2021_intern2.csproj.AssemblyReference.cache
+C:\c#_ksm\codingTest2021_intern2\obj\Debug\codingTest2021_intern2.csproj.CoreCompileInputs.cache
+C:\c#_ksm\codingTest2021_intern2\obj\Debug\codingTest2021_intern2.exe
+C:\c#_ksm\codingTest2021_intern2\obj\Debug\codingTest2021_intern2.pdb

@@ -1,0 +1,7 @@
+C:\c#_ksm\WeeklyChallenge_9week_211008\bin\Debug\WeeklyChallenge_9week_211008.exe.config
+C:\c#_ksm\WeeklyChallenge_9week_211008\bin\Debug\WeeklyChallenge_9week_211008.exe
+C:\c#_ksm\WeeklyChallenge_9week_211008\bin\Debug\WeeklyChallenge_9week_211008.pdb
+C:\c#_ksm\WeeklyChallenge_9week_211008\obj\Debug\WeeklyChallenge_9week_211008.csproj.AssemblyReference.cache
+C:\c#_ksm\WeeklyChallenge_9week_211008\obj\Debug\WeeklyChallenge_9week_211008.csproj.CoreCompileInputs.cache
+C:\c#_ksm\WeeklyChallenge_9week_211008\obj\Debug\WeeklyChallenge_9week_211008.exe
+C:\c#_ksm\WeeklyChallenge_9week_211008\obj\Debug\WeeklyChallenge_9week_211008.pdb

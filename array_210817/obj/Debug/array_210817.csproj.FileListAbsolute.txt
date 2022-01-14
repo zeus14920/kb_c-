@@ -1,0 +1,10 @@
+C:\c#_ksm\array_210817\bin\Debug\array_210817.exe.config
+C:\c#_ksm\array_210817\bin\Debug\array_210817.exe
+C:\c#_ksm\array_210817\bin\Debug\array_210817.pdb
+C:\c#_ksm\array_210817\obj\Debug\array_210817.csproj.AssemblyReference.cache
+C:\c#_ksm\array_210817\obj\Debug\array_210817.Form1.resources
+C:\c#_ksm\array_210817\obj\Debug\array_210817.Properties.Resources.resources
+C:\c#_ksm\array_210817\obj\Debug\array_210817.csproj.GenerateResource.cache
+C:\c#_ksm\array_210817\obj\Debug\array_210817.csproj.CoreCompileInputs.cache
+C:\c#_ksm\array_210817\obj\Debug\array_210817.exe
+C:\c#_ksm\array_210817\obj\Debug\array_210817.pdb

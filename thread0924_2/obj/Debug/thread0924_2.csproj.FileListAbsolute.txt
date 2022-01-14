@@ -1,0 +1,10 @@
+C:\c#_ksm\thread0924_2\bin\Debug\thread0924_2.exe.config
+C:\c#_ksm\thread0924_2\bin\Debug\thread0924_2.exe
+C:\c#_ksm\thread0924_2\bin\Debug\thread0924_2.pdb
+C:\c#_ksm\thread0924_2\obj\Debug\thread0924_2.csproj.AssemblyReference.cache
+C:\c#_ksm\thread0924_2\obj\Debug\thread0924_2.Form1.resources
+C:\c#_ksm\thread0924_2\obj\Debug\thread0924_2.Properties.Resources.resources
+C:\c#_ksm\thread0924_2\obj\Debug\thread0924_2.csproj.GenerateResource.cache
+C:\c#_ksm\thread0924_2\obj\Debug\thread0924_2.csproj.CoreCompileInputs.cache
+C:\c#_ksm\thread0924_2\obj\Debug\thread0924_2.exe
+C:\c#_ksm\thread0924_2\obj\Debug\thread0924_2.pdb

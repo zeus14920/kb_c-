@@ -1,0 +1,7 @@
+C:\c#_ksm\asfsdaga\bin\Debug\asfsdaga.exe.config
+C:\c#_ksm\asfsdaga\bin\Debug\asfsdaga.exe
+C:\c#_ksm\asfsdaga\bin\Debug\asfsdaga.pdb
+C:\c#_ksm\asfsdaga\obj\Debug\asfsdaga.csproj.AssemblyReference.cache
+C:\c#_ksm\asfsdaga\obj\Debug\asfsdaga.csproj.CoreCompileInputs.cache
+C:\c#_ksm\asfsdaga\obj\Debug\asfsdaga.exe
+C:\c#_ksm\asfsdaga\obj\Debug\asfsdaga.pdb
